@@ -1,0 +1,23 @@
+body{
+    background-image: url(/Img/ek.jpg);
+}
+
+h1{
+    text-align: center;
+    background-color: aqua;
+    color: tomato;
+}
+
+h2{
+    background-color: purple;
+    color: aquamarine;
+}
+
+p{
+    background-color: white;
+}
+
+ul{
+    color: white;
+    background-color: black;
+}
